@@ -1,2 +1,2 @@
 # github_example
-exploring git/github
+exploring git/github Yash Kumar Gupta
