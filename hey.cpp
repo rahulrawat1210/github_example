@@ -8,7 +8,7 @@ int main()
 {
 
 
-  cout<<"Hello IEEE: This is Rahul ";
+  cout<<"Hello IEEE ";
   return 0;
 
 }
